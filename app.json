@@ -1,5 +1,5 @@
 {
-      "name": "Emiko Robot",
+      "name": "Maternal Robot",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -63,12 +63,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "excrybaby"
+         "value": "anakyesussnih"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "withyohaneshere"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
